@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://utumiude.github.io/ULb/sitemap_index.txt
+Sitemap: https://utumiude.github.io/WhA/sitemap_index.txt
+Sitemap: https://utumiude.github.io/eKl/sitemap_index.txt
+Sitemap: https://utumiude.github.io/lZf/sitemap_index.txt
